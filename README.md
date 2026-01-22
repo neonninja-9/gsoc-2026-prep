@@ -24,30 +24,61 @@ The main purpose of this repo is to keep my work organized and transparent, incl
 ```txt
 gsoc-2026-prep/
 │
-├── 00-setup/                   # environment setup, tools, checklists
+├── README.md
+├── progress.md
+├── timeline.md
 │
-├── 01-org-research/            # org shortlist, evaluation notes
+├── 00-setup/
+│   ├── dev-environment.md
+│   ├── git-workflow.md
+│   └── tools.md
+│
+├── 01-org-research/
 │   ├── org-shortlist.md
-│   ├── org-A-notes.md
-│   └── org-B-notes.md
+│   ├── evaluation-template.md
+│   ├── org-A/
+│   │   ├── overview.md
+│   │   ├── setup-notes.md
+│   │   ├── issues.md
+│   │   └── comms.md
+│   └── org-B/
+│       ├── overview.md
+│       ├── setup-notes.md
+│       ├── issues.md
+│       └── comms.md
 │
-├── 02-communication/           # intro messages, discussion notes
-│   ├── first-contact-template.md
-│   └── meeting-notes.md
+├── 02-open-source/
+│   ├── contributions-log.md
+│   ├── pr-template.md
+│   ├── issue-notes.md
+│   └── debugging-log.md
 │
-├── 03-project-ideas/           # idea exploration + feasibility
+├── 03-proposal/
 │   ├── idea-A.md
-│   └── idea-B.md
-│
-├── 04-proposal/                # proposal drafts and feedback
+│   ├── idea-B.md
 │   ├── proposal-v1.md
 │   ├── proposal-v2.md
 │   ├── proposal-final.md
-│   └── timeline.md
+│   └── risks-and-mitigation.md
 │
-├── 05-weekly-logs/              # weekly accountability log
+├── 04-weekly-logs/
 │   ├── week-01.md
 │   ├── week-02.md
-│   └── ...
+│   ├── week-03.md
+│   ├── week-04.md
+│   ├── week-05.md
+│   ├── week-06.md
+│   ├── week-07.md
+│   ├── week-08.md
+│   ├── week-09.md
+│   └── week-10.md
 │
-└── README.md
+├── 05-resources/
+│   ├── gsoc-links.md
+│   ├── communication-etiquette.md
+│   ├── proposal-tips.md
+│   └── reading-list.md
+│
+└── 99-archive/
+    └── old-notes.md
+txt```
