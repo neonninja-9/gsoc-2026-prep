@@ -42,4 +42,12 @@ gsoc-2026-prep/
 ├── 04-proposal/                # proposal drafts and feedback
 │   ├── proposal-v1.md
 │   ├── proposal-v2.md
-│   ├── proposal-
+│   ├── proposal-final.md
+│   └── timeline.md
+│
+├── 05-weekly-logs/              # weekly accountability log
+│   ├── week-01.md
+│   ├── week-02.md
+│   └── ...
+│
+└── README.md
